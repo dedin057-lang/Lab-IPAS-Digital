@@ -1,0 +1,6 @@
+{
+  "name": "Laboratorium IPAS Digital SD",
+  "description": "Laboratorium virtual interaktif IPAS untuk siswa SD Fase C Kurikulum Merdeka dengan simulasi kelistrikan, kemagnetan, anatomi tubuh, dan evaluasi pembelajaran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
